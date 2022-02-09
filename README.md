@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
-![Picture](C:\Users\SONU\Pictures\plinkedin.png)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi-star2002" alt="pallavi-star2002" /></a> </p>
 

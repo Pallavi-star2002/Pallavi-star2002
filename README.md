@@ -3,8 +3,6 @@
 <img src = "https://github.com/Pallavi-star2002/Pallavi-star2002/blob/main/plinkedin.png">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi-star2002" alt="pallavi-star2002" /></a> </p>
 
-- 🔭 I’m currently working on **Textile Defect Detection**
-
 - 🌱 I’m currently learning **HTML ,CSS, JS, Python,**
 
 - 👯 I’m looking to collaborate on [Cloud Chat Application](https://github.com/Pallavi-star2002/PallavicloudchatBot.github.io)

@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
-<img src = "![Green Blue Simple Minimalist Travel Youtube Display Ad](https://github.com/Pallavi-star2002/Pallavi-star2002/assets/67356946/015a407c-d7cb-4fc0-ab1c-203c162ced16)
-">
+<img src = "https://github.com/Pallavi-star2002/Pallavi-star2002/assets/67356946/7c0f85a6-8e34-496d-b160-105df533b07c"
+ <br>  <br> <br> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi-star2002" alt="pallavi-star2002" /></a> </p>
 
-- 🌱 I’m currently learning **Python,C,C++,JAVA**
+- 🌱 I’m currently learning **Python,C,JAVA**
 
 - 👯 I’m looking to collaborate on [Cloud Chat Application](https://github.com/Pallavi-star2002/PallavicloudchatBot.github.io)
 
@@ -18,6 +18,8 @@
 <p align="left">
 <a href="https://twitter.com/pallavi87511863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pallavi87511863" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pallavi-pallavi-8a63321a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavi-pallavi-8a63321a6/" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@pallaviwebmaster" target="blank"><img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="pallavi-pallavi-8a63321a6/" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

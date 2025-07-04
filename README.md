@@ -22,7 +22,7 @@
 [![An image of @pallavi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pallavi)](https://holopin.io/@pallavi)
 
 
-- 🌱 I’m currently learning **Python,C,JAVA**
+- 🌱 I’m currently learning **C#,PYTHON,SQL**
 
 - 👯 I’m looking to collaborate on [Cloud Chat Application](https://github.com/Pallavi-star2002/PallavicloudchatBot.github.io)
 

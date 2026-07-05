@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
 <h3 align="center">Learn and Earn</h3>
-<img src = "https://github.com/Pallavi-star2002/Pallavi-star2002/assets/67356946/7c0f85a6-8e34-496d-b160-105df533b07c"
+<img src = ""
  <br>  <br> <br> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi-star2002" alt="pallavi-star2002" /></a> </p>
 
@@ -23,14 +23,6 @@
 
 
 - 🌱 I’m currently learning **PYTHON,SQL**
-
-- 👯 I’m looking to collaborate on [Cloud Chat Application](https://github.com/Pallavi-star2002/PallavicloudchatBot.github.io)
-
-- 👨‍💻 All of my projects are available at [https://pallavi-star2002.github.io/Pallavi.github.io/](https://pallavi-star2002.github.io/Pallavi.github.io/)
-
-- 📫 How to reach me **Pallaviofficial11@gmail.com**
-
-- 📄 Know about my experiences [https://pallavi-star2002.github.io/Pallavi-star2002github.io/](https://pallavi-star2002.github.io/Pallavi-star2002github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

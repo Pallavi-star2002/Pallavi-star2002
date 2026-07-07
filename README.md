@@ -1,38 +1,136 @@
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
-<h3 align="center">Learn and Earn</h3>
-<img src = ""
- <br>  <br> <br> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi-star2002" alt="pallavi-star2002" /></a> </p>
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  </a>
-</div>
-</details>
+<h3 align="center">
+🔐 Cyber Security Enthusiast | 📊 Data Analyst
+</h3>
 
-[![An image of @pallavi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pallavi)](https://holopin.io/@pallavi)
-
-
-- 🌱 I’m currently learning **PYTHON,SQL**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pallavi87511863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pallavi87511863" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pallavi-pallavi-8a63321a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavi-pallavi-8a63321a6/" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@pallaviwebmaster" target="blank"><img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="pallavi-pallavi-8a63321a6/" height="30" width="40" /></a>
-  
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Pallavi&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%7C%20Data%20Analytics%20%7C%20AWS%20Cloud&descAlignY=58"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Cyber+Security+Intern;Data+Analyst+Trainee;Python+%7C+SQL+%7C+AWS+%7C+Linux;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavi-star2002&show_icons=true&locale=en&layout=compact" alt="pallavi-star2002" /></p>
+---
+
+# 👩‍💻 About Me
+
+- 🔐 Cyber Security Intern at **Uttar Pradesh Police**
+- 🛡️ Cyber Security Warrior Awardee
+- 📊 Data Analyst Trainee
+- 🎓 B.Tech (Computer Science & Engineering)
+- ☁️ Learning AWS Cloud, Python, SQL & Linux
+- 💡 Passionate about Cyber Security, Data Analytics & Cloud Computing
+- 🚀 Open to Internship & Full-Time Opportunities
+
+---
+
+# 🏅 Featured Achievement
+
+<p align="center">
+<img width="1254" height="1254" alt="ChatGPT Image Jul 4, 2026, 01_56_37 PM" src="https://github.com/user-attachments/assets/63984a30-34cc-4816-8ff6-716705cb68a8" />
+
+</p>
+
+<p align="center">
+
+### 🛡️ Cyber Security Warrior
+
+Recognized by **Uttar Pradesh Police** as a **Cyber Security Intern & Content Creator**.
+
+🏆 **Selected among the Top 20 participants from 800+ candidates** in the Cyber Security Warrior Program.
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🥇 **Cyber Security Warrior Award** – Uttar Pradesh Police
+
+🔐 **Cyber Security Intern & Content Creator** – Uttar Pradesh Police, Amroha
+
+🏅 **Top 20 Finalist** – Selected among **800+ participants**
+
+🥇 **1st Prize** – Job Portal Demo Presentation
+
+📰 **Featured in Amar Ujala** for Project Innovation
+
+🥇 **1st Prize** – Webpage Design Contest, NSTI-W Allahabad
+
+☁️ **Google Cloud Ready Facilitator Program 2022** – 2 Milestone Awards
+
+🎯 **Organizer** – Technical Quiz Competition
+
+🌱 **Open Source Contributor** – GirlScript Summer of Code (GSSoC)
+
+---
+
+
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,aws,linux,mysql,git,github,html,css,javascript,docker,vscode"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/pallavi-pallavi-8a63321a6">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com/pallavi87511863">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://www.youtube.com/@pallaviwebmaster">
+<img src="https://skillicons.dev/icons?i=youtube"/>
+</a>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pallavi-star2002&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pallavi-star2002&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pallavi-star2002&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---
+
+<p align="center">
+⭐ <b>Thanks for visiting my profile!</b> Let's connect and build secure, innovative solutions together.
+</p>
